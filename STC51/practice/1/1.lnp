@@ -1,0 +1,5 @@
+"main.obj",
+"Delay.obj",
+"Nixie.obj" 
+TO "1" 
+RAMSIZE(256) 
