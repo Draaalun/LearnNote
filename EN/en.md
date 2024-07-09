@@ -145,3 +145,15 @@
 11. With French **meteorological** service Météo France **forecasting** higher than normal temperatures for summer across the country, athletes expressed concern about the potential effects of extreme heat, including **cramps**, exhaustion, heat stroke and even death.法国气象服务机构Météo France**预测**，今年夏天法国各地的气温将高于正常水平，运动员们对极端高温可能带来的影响表示担忧，包括**抽筋**、疲劳、中暑甚至死亡。
 
 12. *As the Paralympics approached, organizers prioritized sustainability: installing solar panels, geothermal pumps, and using eco-friendly cement. Despite pushback on outsourced catering and venue options, their pledge to cut CO2 was exemplary. Meteorological forecasts warned of heat strokes; the delegation faced escalating debates over norms, with some controversies leaking about the portable, excessive expenses at others' expense.*
+
+# 7.9
+
+1. A) Resilience  B) Integrity C) Resourcefulness  D) Intelligence适应力、还原能力，，诚实正直、完整的，，足智多谋，，勤奋的。
+2. simply teaching math and reading — the so-called cognitive skills — isn't nearly enough,只教授数学和阅读（所谓的认知能力）远远不够
+3. describes these traits as “**resilience**, **integrity**, **resourcefulness**, **professionalism** and ambition.” “They are the **linchpin** of what we do,” Nelson told me. Nelson calls them “leadership skills.” Tough uses the word “grit” a lot.描述为“韧性、正直、会想办法、专业精神和雄心壮志”。“这是我们做事的**关键**，”内尔森告诉我。内尔森称这些性格品质为“领导能力”。图赫多次使用“坚韧”一词。
+4. tap、利用，开发，发掘（已有的资源、知识等）We need to tap the expertise of the people we already have. 我们需要利用我们现有人员的专业知识。
+5. tap into sth 表示“挖掘；使用…以获得好结果”，英文解释“to manage to use something in a way that brings good results”举个🌰：If only we could tap into all that energy and creativity. 如果我们能够用上那些精力和创意就好了。
+6. They're supposed to **instill** cooperation and pacifism. 他们应该灌输了合作与和平主义思想。
+7.  impede 阻碍；阻止
+8. masks feelings of hopelessness and anxiety.掩盖的是绝望和焦虑情绪
+9. I was wondering if you had any suggestions on how to bolster my resume. 想问问 对提升我的简历你有没有什么意见？

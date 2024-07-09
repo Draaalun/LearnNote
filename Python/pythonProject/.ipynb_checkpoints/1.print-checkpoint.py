@@ -1,8 +1,7 @@
 # dralun818
-
 # 自带集成开发环境 idle
 #使用pycharm
-#ipo 输入-处理-输出input process output
+#ipo 输入-处理-输出
 print("hello")
 a=100
 b=50
@@ -38,30 +37,4 @@ print('number is:'+a)
 num=int(a)
 print('num',num)
 
-#多行注释三引号
-'''
-这是一个多行注释
-1
-2
-3
-三个引号
-'''
-
-"""
-这个也
-可以
-"""
-
-#coding=gbk //coding=utf-8
-#python编码格式由第一行决定的
-#中文生命注释，一定写在第一行
-
-#代码缩进，一般代码不需要缩进
-'''
-class student
-    pass
-
-#函数定义
-def fun()
-    pass
-'''
+#
