@@ -154,6 +154,29 @@
 4. tap、利用，开发，发掘（已有的资源、知识等）We need to tap the expertise of the people we already have. 我们需要利用我们现有人员的专业知识。
 5. tap into sth 表示“挖掘；使用…以获得好结果”，英文解释“to manage to use something in a way that brings good results”举个🌰：If only we could tap into all that energy and creativity. 如果我们能够用上那些精力和创意就好了。
 6. They're supposed to **instill** cooperation and pacifism. 他们应该灌输了合作与和平主义思想。
-7.  impede 阻碍；阻止
+7. **impede** 阻碍；阻止
 8. masks feelings of hopelessness and anxiety.掩盖的是绝望和焦虑情绪
 9. I was wondering if you had any suggestions on how to bolster my resume. 想问问 对提升我的简历你有没有什么意见？
+
+# 7.10
+
+1.  eight-lane expressways and towering bridges over the **muddy** waters of the Yangtze River.八车道高速公路和横跨在长江浑浊水面上的桥梁。
+2. **A fleet of** 500 taxis navigated by computers, often with no safety drivers in them for **backup**, buzz around.一个由500辆出租车组成的车队由电脑导航，在街头穿梭，通常没有安全驾驶员作为**后备**。
+3. joint venture合资企业
+4. 驾驶者必须目视道路，手握方向盘。**Motorists** are required to keep their eyes on the road and hands on the steering wheel.
+5.  forecasts预测；预报”
+6. Baidu has learned how the traffic works, block by **block**, he said in a speech last month.百度已经一个街区一个街区地了解了交通状况。
+7. the distance along a street from where one road crosses it to the place where the next road crosses it, or one part of a street like this, especially in a town or city”街区；街段
+8. From **steamy** **coastal** ports in southeastern China like Shenzhen and Fuzhou to **metropolises** in the mountains of western China, like Chongqing and Chengdu, cities across China are encouraging broad experimentation.从深圳和福州等东南部**潮湿**的**沿海港口**，到重庆和成都等西部山区的**大都市**，中国各地的城市都在鼓励广泛的试验。
+
+# 7.11
+
+1. The **identity** of the buyer at the auction in Fontainebleau south of Paris of the **finely** **adorned** objects was not made public but the final sale price, with fees, was above the estimates of €1.2-1.5m.这些装饰精美的手枪在巴黎南部枫丹白露（Fontainebleau）拍卖，买家身份未公开，但最终成交价（含佣金）超过了120万至150万欧元的预估价。
+2. The richly decorated guns **inlaid** with gold and silver feature the **engraved** image of Napoleon in full **imperial pomp**.这两把手枪装饰华丽，**镶嵌**金银，并**刻**有拿破仑的头像，尽显**帝王风范**。
+3. his grand **squire** removed the powder,他的贴身侍从拿走了弹药。//squire大地主，随从
+4. Napoleon instead took poison but **vomited** and survived,但因**呕吐**而活了下来，
+5. Upon his **abdication**, Napoleon went into **exile**退位后，拿破仑被流放到
+6. **Memorabilia** of the emperor is extremely sought after among collectors.拿破仑的纪念品在收藏家中极为抢手。
+7. trimmings镶边饰物；花边
+8. a cultural property qualified as a national treasure can leave France only temporarily, with a **mandatory** return.若要将被列为国宝的文物带离法国只能是暂时性的，且必须归还。//强制的
+9. *At the auction house, a finely engraved pistol, once adorned with imperial trimmings and inlaid gems, qualified for export. This grand squire's memorabilia, linked to an abdication and definitive exile, sparked pomp and loyalty. Despite its historical value, mandatory certificates classified it as unidentified.*

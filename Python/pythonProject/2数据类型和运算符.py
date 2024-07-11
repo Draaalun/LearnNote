@@ -98,7 +98,7 @@ print('-'*40)
 #位运算
 #&  |   ^异或    ~取反    <<左移位>>右移位
 
-#######################################
+###
 num=input("plz input a 3 num：")#字符串
 print(num[0],num[1],num[2])
 num=eval(input("plz input a 3 num："))#整数型

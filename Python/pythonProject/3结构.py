@@ -1,5 +1,5 @@
 # dralun818
-##############if##################
+#####if#####
 num=eval(input("plz input passwd:"))
 if num==123456:
     print("right")
@@ -7,7 +7,7 @@ else:
     print("false")
 if not num==123456:
     print("1")
-
+###
 x=input("plz input str")
 if x:
     print("x is not null")
@@ -30,7 +30,7 @@ else:
 
 
 
-##############模式匹配################
+#####模式匹配#####
 score=input("plz input grade")
 match score:
     case 'A':
@@ -40,7 +40,7 @@ match score:
 
 
 
-#############循环###################
+#####循环#####
 #for循环和while循环
 """
 for 循环变量 in 遍历对象：
@@ -53,7 +53,7 @@ s=0
 for i in range(1,11):
     s+=i
 print(s)
-###寻找水仙花树
+#寻找水仙花树
 for i in range(100, 1000):
     if i == ((i % 10) ** 3 + (i // 10 % 10) ** 3 + (i // 100) ** 3):
         print(i)
@@ -62,12 +62,12 @@ for...in...
     语句1
 else:
     语句2
-###正常结束后才会执行else，中途遇到break退出不会执行。    
+#正常结束后才会执行else，中途遇到break退出不会执行。    
 """
 
 
 
-#############while####################
+#####while#####
 '''
 while 表达式：
     语句1
@@ -90,7 +90,7 @@ while i<=100:
     i+=1
 else:
     print(s)
-###while循环实现模拟用户登录
+#while循环实现模拟用户登录
 i=0
 while i<3:
     name=input("name")
@@ -104,7 +104,7 @@ while i<3:
         i+=1
 if i==3:
     print("err")
-###while 嵌套循环
+#while 嵌套循环
 i=1
 j=4
 for i in range(1,6):
@@ -128,7 +128,7 @@ for i in range(1,5):
 """
 
 
-############break#############
+#####break#####
 sum=0
 i=0
 while i<100:
@@ -136,8 +136,16 @@ while i<100:
     if sum>=100:
         break
     i += 1
-print(sum,i)###105 14
-##########cotinue#########
+print(sum,i)#105 14
+#cotinue
 #跳过本次循环直接执行下一次while
-#########pass#############
+#pass
 #起到占位符的作用，没有的话可能执行会受到影响
+
+
+
+######9*9乘法表#####
+for i in  range(1,10):
+    for j in range(1,i+1):
+        print(str(i)+'*'+str(j)+'='+str(i*j),end="    ")
+    print()

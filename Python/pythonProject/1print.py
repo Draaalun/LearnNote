@@ -1,6 +1,6 @@
 # dralun818
 
-# 自带集成开发环境 idle
+#自带集成开发环境 idle
 #使用pycharm
 #ipo 输入-处理-输出input process output
 print("hello")
