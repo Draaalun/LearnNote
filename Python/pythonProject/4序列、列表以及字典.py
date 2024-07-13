@@ -1,6 +1,9 @@
 # dralun818
 import random
 
+
+
+
 #####序列和索引#####
 #序列多个值的连续空间，每个值对应一个整数编号，称为编号。
 #正向递增索引
@@ -25,6 +28,7 @@ print(s1+s2)
 print(s1*5)
 print('e' in s,'e' not in s,s.index('e'),s.count('e'))
 print(len(s),min(s),max(s))
+
 
 
 
@@ -116,6 +120,7 @@ print(lst)
 
 
 
+
 ######元组tuple#####
 #元组不可变数据类型，
 #使用（）定义元组，元素与元素之间使用英文都好分隔，只有一个元素也不能省略逗号
@@ -146,6 +151,7 @@ print(t)#(5, 6, 7, 8)
 for item in t:
     print(item,end=" ")#5 6 7 8
 print()
+
 
 
 
