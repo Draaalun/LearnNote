@@ -5,7 +5,7 @@
    希腊的一些员工即将迎来更长的工作周。
 
 2. along with 和什么一起
-3. are eligible to extend the workweek beyond five days under new labor laws有资格将每周工作时间延长至五天以上
+3. **are eligible to** extend the workweek beyond five days under new labor laws有资格将每周工作时间延长至五天以上
 4. The change to the labor laws was approved last September **following** productivity issues in the country, which have led many workers to put in extra hours and often not be **compensated** for the time. 由于希腊的生产力问题，许多员工不得不加班且通常没有得到相应的报酬，因此去年9月批准了劳动法的修改。
 5. Workers who **do put in** the extra time will receive 40% extra during the additional eight hours
 6. Employers who decide to embrace the 48-hour workweek will be required to notify employees at least 24 hours before the shift begins. No additional overtime beyond the eight hours is allowed.决定实行48小时工作周的雇主必须在轮班开始前至少24小时通知员工。除了这额外的八小时之外，不允许再加班。
@@ -85,7 +85,7 @@
     
     1. **Gratitude can help you live longer, study finds**
     2. As well as **spiking** happy feelings in the present, practising gratitude could come with the serious long-term benefits of extending your lifespan,践行感恩不仅能带来即时的幸福感，还可能延长寿命。
-    3. gratitude and **mortality**.感恩与死亡率
+    3. gratitude and **mortality**.感恩与死亡率.
     4. researchers observed that those whose scores were in the highest third of a gratitude **questionnaire** had a 9% lower risk of all-cause **mortality** than those who scored in the bottom third, particularly when it came to **cardiovascular** disease (conditions affecting your heart and blood vessels, including heart disease and heart attacks).那些在感恩问卷中得分处于前三分之一的女性，其全因死亡率比得分处于后三分之一的女性低9%，尤其是在心血管疾病（影响心脏和血管的疾病，包括心脏病和心肌梗死）方面。
     5. cardiovascular 心血管的cardiac心脏的
     6. ranging from all-cause **mortality** to the more specific **cardiovascular** disease, cancer, **respiratory** disease, **neurodegenerative** disease, infection, and injury. 范围包括全因死亡率以及更具体的心血管疾病、癌症、**呼吸**系统疾病、神经退行性疾病、感染和受伤。
@@ -180,3 +180,19 @@
 7. trimmings镶边饰物；花边
 8. a cultural property qualified as a national treasure can leave France only temporarily, with a **mandatory** return.若要将被列为国宝的文物带离法国只能是暂时性的，且必须归还。//强制的
 9. *At the auction house, a finely engraved pistol, once adorned with imperial trimmings and inlaid gems, qualified for export. This grand squire's memorabilia, linked to an abdication and definitive exile, sparked pomp and loyalty. Despite its historical value, mandatory certificates classified it as unidentified.*
+
+# 7.14
+
+1. Visiting **snow-capped** mountains, scenic lakes and deep **gorges** is all in a day's work for He Quan.游览**白雪皑皑**的高山、风景秀丽的湖泊和**深谷**，是何全（He Quan，音译）的日常工作。
+2. plies his trade eight hours a day, ferrying passengers around the Chinese province's key attractions. 每天工作8小时，接送游客游览省内主要景点//ply· 定时往来；定期行驶
+3. But a different **clientele** has emerged现在有了不同的**客户群**
+4. boosting **publicity** and attracting more business.提高**宣传**力度，吸引更多游客//宣传活动，推广活动
+5. The resumption and expansion of visa-free policies have been key as they have streamlined the travel process, according to analysts.分析人士认为，恢复和扩大免签政策是关键，这些政策简化了出游手续。
+6. round sth off圆满完成，圆满结束to complete an event or activity in a pleasant or satisfactory way🌰：We rounded the meal off with a chocolate and rum cake. 最后我们又品尝了巧克力和糖蜜酒蛋糕，美美地吃完了这顿饭。
+7. the **skyrocketing** costs of health care **暴涨**的医疗费用。
+8. attributes this to the **geographic** and cultural **proximity** between Southeast Asian countries and China.这归功于东南亚国家与中国在**地理**和文化上的**接近**。
+9. , foreign passengers purchasing tickets online had to present their original passports at the railway station counter to verify their personal **particulars**.外籍旅客在线购买火车票后需持护照原件到铁路车站窗口核验**身份信息**。
+10. As China **rolls out** the visa-free welcome mat to more foreigners, the country has been taking steps to ensure smooth travel within its borders.随着中国向更多国家**推出**免签政策，中国也一直在采取措施确保外国人在中国出行的顺畅。
+11. known colloquially as “Bei Shang Guang Shen”俗称“北上广深”
+12. colloquially口语地，通俗语地，非正式地
+13. Colloquially referred to as a "brain attack", a stroke occurs when the flow of blood to the brain is interrupted. 俗称“脑梗”，当流向大脑的血液被中断时就会发生中风。
