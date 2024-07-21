@@ -214,3 +214,37 @@ pattern="[s|&]"
 s1="https://mp.weixin.qq.com/s/GVVsHCtFsmd6vG6BCQqvYA"
 new_s=re.split(pattern,s1)
 print(new_s)#['http', '://mp.weixin.qq.com/', '/GVV', 'HCtF', 'md6vG6BCQqvYA']
+
+
+import re
+
+pattern = "[a-zA-Z0-9+_-]+@[a-zA-Z0-9-]+\.[a-zA-Z]{2,}"
+email_address = "johndoe@example.com"
+match = re.match(pattern, email_address)
+print(match)
+if match:
+    print("Valid email address:", match.group())
+else:
+    print("Invalid email address")
+
+import re
+
+pattern = "\d{3}-\d{3}-\d{4}"
+text = "My phone number is 123-456-7890. Please call me if you have any questions."
+match = re.findall(pattern, text)
+if match:
+    print("Phone number found:", str(match))
+else:
+    print("No phone number found")
+
+
+import re
+
+pattern = r"\d{4}-\d{1,2}-\d{1,2}"
+date_string = "2024-07-20"
+
+match = re.match(pattern, date_string)
+if match:
+    print("Valid date:", match.group())
+else:
+    print("Invalid date format")
